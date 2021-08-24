@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(238, 255, 0, 0.753) ;
+}
+.title{
+    text-align: center;
+    color: rgb(22, 82, 22);
+    vertical-align: top;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    
+}
+image{
+    position: absolute;
+    size: 300px;
+}
